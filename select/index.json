@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "余命2:30",
+  "base_artist": "PinocchioP",
+  "createdAt": "2026-03-05T14:13:50.177031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "余命2:30 - 2:30 Life Remaining",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/01_余命2_30_-_2_30_Life_Remaining_PinocchioP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "余命2:30",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_余命2_30_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "余命2:30",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_02_余命2_30_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "余命2:30",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_03_余命2_30_ピノキオピー.txt"
+    }
+  ]
+}
